@@ -1,0 +1,13 @@
+#startGameMessage {
+  background-color: #ddd;
+  height: 50px;
+  width: 270px;
+  position: absolute;
+  top: 170px;
+  left: 130px;
+}
+
+#startGameMessage h3 {
+  text-align: center;
+  margin: 13px 0;
+}
